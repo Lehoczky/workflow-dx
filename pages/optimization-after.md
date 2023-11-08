@@ -1,0 +1,1 @@
+<img src="/optimization-after.png" style="height: 100%; margin: auto;" />

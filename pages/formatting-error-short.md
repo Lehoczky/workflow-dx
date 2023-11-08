@@ -1,0 +1,1 @@
+<img src="/formatting-error-short.png" style="margin: auto;" />

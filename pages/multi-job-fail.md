@@ -1,0 +1,1 @@
+<img src="/multi-job-fail.png" style="margin: auto;" />
