@@ -14,5 +14,6 @@
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.37"
-  }
+  },
+  "packageManager": "pnpm@9.6.0"
 }
